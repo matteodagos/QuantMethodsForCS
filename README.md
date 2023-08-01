@@ -1,4 +1,4 @@
-#Quantitative Methods for Computer Science - Course Project Repository
+# Quantitative Methods for Computer Science - Course Project Repository
 
 This repository contains the projects developed by myself and my colleague for an university course that focuses on two main topics: Logic and Probabilistic Methods for Computer Science. 
 
